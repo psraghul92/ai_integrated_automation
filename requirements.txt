@@ -1,0 +1,6 @@
+pytest
+assertpy
+PyYAML
+pydantic
+browser-use
+langchain-google-genai
